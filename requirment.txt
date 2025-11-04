@@ -1,0 +1,12 @@
+pandas
+requests
+streamlit
+sqlalchemy
+sqlite3
+fuzzywuzzy[speedup]
+python-Levenshtein
+scipy
+scikit-learn
+uvicorn
+fastapi
+pyhton-dotenv
