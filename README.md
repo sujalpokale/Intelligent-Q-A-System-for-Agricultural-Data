@@ -95,9 +95,4 @@ Try these queries in the Streamlit app:
 > Built an interactive data analysis platform enabling natural-language queries over government rainfall and crop production datasets.  
 > **Tech:** Python, Pandas, SQLAlchemy, Streamlit, FuzzyWuzzy, SQLite
 
----
 
-### 👨‍💻 Author
-**[Your Name]**  
-📧 [your.email@example.com]  
-🌐 [https://github.com/your-username](https://github.com/your-username)
